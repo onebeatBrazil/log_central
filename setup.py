@@ -101,7 +101,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "log_to_central"
+PACKAGE = "log_central"
 NAME = PACKAGE
 DESCRIPTION = "Módulo levar os logs para o banco de dados central"
 AUTHOR = "João Garcia"
