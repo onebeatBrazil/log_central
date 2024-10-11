@@ -134,8 +134,7 @@ setup(
     install_requires=[
         'pandas',
         'sqlalchemy',
-        'pyodbc',
-        'urllib'
+        'pyodbc'
     ],
     zip_safe=False,
 )
