@@ -1,4 +1,4 @@
-# get_log_to_central
+# log_central
 
 Módulo criado para levar informações das integrações para o banco de dados central.
 

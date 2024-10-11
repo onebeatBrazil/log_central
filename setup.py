@@ -106,7 +106,7 @@ NAME = PACKAGE
 DESCRIPTION = "Módulo levar os logs para o banco de dados central"
 AUTHOR = "João Garcia"
 AUTHOR_EMAIL = "joao.garcia@1beat.com"
-URL = "https://github.com/onebeatBrazil/get_log_to_central"
+URL = "https://github.com/onebeatBrazil/log_central"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
